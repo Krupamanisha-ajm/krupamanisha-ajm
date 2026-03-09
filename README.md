@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi ,I'm Krupamanisha - The Engineer Student👋
+*Python Full-stack Developer*
 
-<!--
-**Krupamanisha-ajm/krupamanisha-ajm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Krupa Manisha 👋
+B.Tech CSE Student
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently learning: Python, HTML, CSS, JavaScript
+💻 Interested in: Web Development & Python Programming
+🌱 Learning: Data Structures, Problem Solving
+🎓 Education: B.Tech 3rd Year – Computer Science and Engineering
+🌐 Portfolio/LinkedIn: (www.linkedin.com/in/kolikipamu-krupamanisha)S
+📫 Email: (krupamanisha27ists@gmail.com)
+Tech Skills
+Python • HTML • CSS • JavaScript • SQL (Basic)
